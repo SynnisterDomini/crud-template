@@ -1,5 +1,12 @@
 source 'https://rubygems.org'
 
+gem 'rubygems-update'
+gem 'bundler'
+gem 'rest-open-uri'
+gem 'rest-client'
+gem 'json'
+
+
 # PostgreSQL driver
 gem 'pg'
 
